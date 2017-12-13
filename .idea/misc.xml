@@ -41,15 +41,19 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../springcloud/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/eureka_client/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/client/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloud/client2/pom.xml" />
+        <option value="E:/springcloud/pom.xml" />
+        <option value="E:/springcloud/eureka_client/pom.xml" />
+        <option value="E:/springcloud/client/pom.xml" />
+        <option value="E:/springcloud/client2/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+        <option value="$PROJECT_DIR$/client2/pom.xml" />
+        <option value="$PROJECT_DIR$/feign/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../springcloud/out" />
+    <output url="file://E:/springcloud/out" />
   </component>
   <component name="masterDetails">
     <states>

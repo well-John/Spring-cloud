@@ -9,6 +9,7 @@
         <module name="client" />
         <module name="client2" />
         <module name="eureka_client" />
+        <module name="feign" />
         <module name="springcloud" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="client" target="1.8" />
       <module name="client2" target="1.8" />
       <module name="eureka_client" target="1.8" />
+      <module name="feign" target="1.8" />
       <module name="springcloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -17,6 +17,13 @@ public class MyService {
     @Autowired
     RestTemplate restTemplate;
 
+    @RequestMapping("/hello")
+    @ResponseBody
+    public String hello(){
+        System.out.println("-----------------hello--------------");
+        return "hello";
+    }
+
    @HystrixCommand(fallbackMethod = "error")
     @RequestMapping("select")
     @ResponseBody
